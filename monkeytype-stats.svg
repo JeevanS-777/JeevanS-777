@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="940" height="360" viewBox="0 0 940 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#111316"/>
+      <stop offset="1" stop-color="#23262a"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="16" flood-color="#000" flood-opacity="0.55"/>
+    </filter>
+    <style>
+      .title { font: 700 20px/1 "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#e6e6e6; }
+      .sub { font: 400 12px/1 "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#9aa0a6; letter-spacing:0.6px; }
+      .big { font: 700 36px/1 "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#ffffff; }
+      .stat-label { font: 600 11px/1 "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#9aa0a6; text-transform:uppercase; letter-spacing:1px;}
+      .stat-value { font: 700 22px/1 "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#ffffff; }
+      .small { font: 500 11px/1 "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#c7c9cc; }
+      .muted { font: 400 11px/1 "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#8f979b; }
+      .accent { fill:#ffd166; }
+      .pill { font: 600 12px/1 "Segoe UI", Roboto, "Helvetica Neue", Arial; fill:#111216; }
+    </style>
+  </defs>
+
+  <!-- Card background -->
+  <rect x="10" y="10" rx="14" ry="14" width="920" height="340" fill="url(#g1)" filter="url(#shadow)" stroke="#1f2225" stroke-opacity="0.6"/>
+
+  <!-- Header -->
+  <g transform="translate(36,34)">
+    <text class="title">MonkeyType — Jeevan_S</text>
+    <rect x="0" y="28" width="120" height="6" rx="3" fill="#ffd166" opacity="0.95"/>
+    <text class="sub" x="150" y="20">Tests started</text>
+    <text class="big" x="150" y="54">380</text>
+    <text class="sub" x="300" y="20">Tests completed</text>
+    <text class="big" x="300" y="54">141 <tspan class="muted" font-weight="600" font-size="14">(37%)</tspan></text>
+    <text class="sub" x="520" y="20">Time typing</text>
+    <text class="big" x="520" y="54">01:38:39</text>
+    <text class="sub" x="760" y="20">Estimated words</text>
+    <text class="big" x="760" y="54">7019</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="36" y1="100" x2="904" y2="100" stroke="#2d3134" stroke-width="1"/>
+
+  <!-- Left column stats -->
+  <g transform="translate(36,118)">
+    <text class="stat-label" x="0" y="0">Peak & Raw</text>
+
+    <rect x="-8" y="8" rx="8" width="260" height="210" fill="rgba(255,255,255,0.02)" stroke="transparent"/>
+
+    <text class="stat-value" x="16" y="42">Highest WPM</text>
+    <text class="big" x="16" y="76">112 <tspan class="muted" font-size="14"> (30s)</tspan></text>
+
+    <text class="stat-value" x="16" y="114">Highest raw WPM</text>
+    <text class="big" x="16" y="148">121</text>
+
+    <text class="stat-value" x="16" y="186">Highest accuracy</text>
+    <text class="big" x="16" y="220">100%</text>
+  </g>
+
+  <!-- Middle column stats -->
+  <g transform="translate(320,118)">
+    <text class="stat-label" x="0" y="0">Averages</text>
+
+    <rect x="-8" y="8" rx="8" width="300" height="210" fill="rgba(255,255,255,0.01)" stroke="transparent"/>
+
+    <text class="stat-value" x="12" y="42">Average WPM</text>
+    <text class="big" x="12" y="76">88</text>
+
+    <text class="stat-value" x="12" y="114">Average raw WPM</text>
+    <text class="big" x="12" y="148">95</text>
+
+    <text class="stat-value" x="12" y="186">Average accuracy</text>
+    <text class="big" x="12" y="220">93%</text>
+  </g>
+
+  <!-- Right column stats -->
+  <g transform="translate(660,118)">
+    <text class="stat-label" x="0" y="0">Recent (last 10)</text>
+
+    <rect x="-8" y="8" rx="8" width="240" height="210" fill="rgba(255,255,255,0.01)" stroke="transparent"/>
+
+    <text class="stat-value" x="12" y="42">Avg WPM (last 10)</text>
+    <text class="big" x="12" y="76">91</text>
+
+    <text class="stat-value" x="12" y="114">Avg raw WPM (last 10)</text>
+    <text class="big" x="12" y="148">96</text>
+
+    <text class="stat-value" x="12" y="186">Avg accuracy (last 10)</text>
+    <text class="big" x="12" y="220">94%</text>
+  </g>
+
+  <!-- footer small stats -->
+  <g transform="translate(36,340)">
+    <text class="muted" x="0" y="-12">Avg consistency</text>
+    <text class="pill" x="120" y="-8" style="font-size:16px">73%</text>
+
+    <text class="muted" x="260" y="-12">Avg consistency (last 10)</text>
+    <text class="pill" x="470" y="-8" style="font-size:16px">75%</text>
+
+    <text class="muted" x="620" y="-12">Highest consistency</text>
+    <text class="pill" x="820" y="-8" style="font-size:16px">87%</text>
+  </g>
+
+  <!-- bottom left small details -->
+  <g transform="translate(36,290)">
+    <rect x="0" y="0" rx="8" width="400" height="46" fill="rgba(255,255,255,0.015)"/>
+
+    <text class="small" x="16" y="16">Tests started</text>
+    <text class="stat-value" x="16" y="36">380</text>
+
+    <text class="small" x="160" y="16">Tests completed</text>
+    <text class="stat-value" x="160" y="36">141 (37%)</text>
+
+    <text class="small" x="320" y="16">Time typing</text>
+    <text class="stat-value" x="320" y="36">01:38:39</text>
+  </g>
+
+  <!-- bottom right small details -->
+  <g transform="translate(460,290)">
+    <rect x="0" y="0" rx="8" width="420" height="46" fill="rgba(255,255,255,0.015)"/>
+
+    <text class="small" x="16" y="16">Estimated words typed</text>
+    <text class="stat-value" x="16" y="36">7019</text>
+
+    <text class="small" x="220" y="16">Level</text>
+    <text class="stat-value" x="220" y="36">41</text>
+
+    <text class="small" x="320" y="16">Tests / restarts</text>
+    <text class="stat-value" x="320" y="36">141 (1.7 restarts/test)</text>
+  </g>
+
+  <!-- attribution line -->
+  <text x="36" y="345" class="muted" font-size="10">Generated for Jeevan_S — paste this SVG into your repo as <tspan fill="#ffd166">monkeytype-stats.svg</tspan> and embed with &lt;img&gt; in your README</text>
+</svg>
