@@ -2,7 +2,7 @@ name: MonkeyType Readme
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,11 +14,12 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate MonkeyType Stats
-        uses: napstr/monkeytype-readme@main
+        uses: mollersuite/monkeytype-readme@main
         with:
-          user: Jeevan_S 
+          user: YOUR_MONKEYTYPE_USERNAME
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: update monkeytype stats"
+
