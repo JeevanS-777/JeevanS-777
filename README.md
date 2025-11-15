@@ -45,26 +45,27 @@ Aspiring Full Stack Developer with a passion for crafting efficient, user-focuse
 ## 📊 Stats
 
 ### LeetCode
-![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/_Jeevan_S)
+(![LeetCode Stats](https://leetcard.jacoblin.cool/_Jeevan_S)
 
 ### ⌨️ MonkeyType Typing Stats
-  <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/monkeytype-stats.svg" alt="MonkeyType stats for Jeevan_S" />
+<a href="https://monkeytype.com/profile/Jeevan_S">
+  <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/monkeytype-stats.svg" />
+</a>
 
-
-## 🚀 Featured Projects
-*(Coming soon—pin your course projects here once uploaded!)*
-
-- [Project 1]: Description and [link]
-- [Project 2]: Description and [link]
 
 ## 📫 Let's Connect
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Optional personal site]
+- 📧 Email: jeevans23062005@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/jeevans23062005/
+- 🌐 Portfolio: [personal site]
 
 <div align="center">
   <img src="https://komarev.com/ghpvc?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
-*Built with ❤️ using Markdown on GitHub*
+<h3 align="center">
+  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
+    🚀 Always learning. Always building. Always improving.
+  </span>
+</h3>
+
