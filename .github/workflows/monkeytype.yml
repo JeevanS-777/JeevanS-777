@@ -16,7 +16,7 @@ jobs:
       - name: Generate MonkeyType Stats
         uses: mollersuite/monkeytype-readme@main
         with:
-          user: YOUR_MONKEYTYPE_USERNAME
+          user: Jeevan_S
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v4
