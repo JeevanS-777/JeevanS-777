@@ -16,7 +16,7 @@ jobs:
       - name: Generate MonkeyType Stats
         uses: napstr/monkeytype-readme@main
         with:
-          user: _Jeevan_S 
+          user: Jeevan_S 
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v4
