@@ -49,7 +49,7 @@ Aspiring Full Stack Developer with a passion for crafting efficient, user-focuse
 
 ### ⌨️ MonkeyType Typing Stats
 <a href="https://monkeytype.com/profile/Jeevan_S">
-  <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/monkeytype-stats.svg" alt="MonkeyType stats — Jeevan_S" />
+  <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/monkeytype-stats.svg" />
 </a>
 
 
