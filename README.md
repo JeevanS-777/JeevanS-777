@@ -45,12 +45,10 @@ Aspiring Full Stack Developer with a passion for crafting efficient, user-focuse
 ## 📊 Stats
 
 ### LeetCode
-(![LeetCode Stats](https://leetcard.jacoblin.cool/_Jeevan_S)
+([LeetCode Stats](https://leetcard.jacoblin.cool/_Jeevan_S)
 
 ### ⌨️ MonkeyType Typing Stats
-<a href="https://monkeytype.com/profile/Jeevan_S">
   <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/monkeytype-stats.svg" />
-</a>
 
 
 ## 📫 Let's Connect
