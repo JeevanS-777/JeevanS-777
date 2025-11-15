@@ -1,0 +1,24 @@
+name: MonkeyType Readme
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate MonkeyType Stats
+        uses: napstr/monkeytype-readme@main
+        with:
+          user: _Jeevan_S 
+
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update monkeytype stats"
