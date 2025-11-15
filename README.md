@@ -47,9 +47,12 @@ Aspiring Full Stack Developer with a passion for crafting efficient, user-focuse
 ### LeetCode
 ![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/_Jeevan_S)
 
-### Typing (MonkeyType)
-<!-- Generate your SVG at https://monkeytype-readme.com/ (see Step 3), then replace the image URL below -->
-![MonkeyType Stats](https://example-monkeytype-svg-url.svg) <!-- Paste your generated URL here -->
+### ⌨️ MonkeyType Typing Stats
+
+[![MonkeyType Profile](https://img.shields.io/badge/MonkeyType-View%20Profile-blue?style=for-the-badge)](https://monkeytype.com/profile/Jeevan_S)
+
+![MonkeyType WPM](https://img.shields.io/badge/dynamic/json?url=https://api.monkeytype.com/profile/Jeevan_S&label=Best%2060s%20WPM&query=%24.data.personalBests.time.60&style=for-the-badge)
+
 
 ## 🚀 Featured Projects
 *(Coming soon—pin your course projects here once uploaded!)*
