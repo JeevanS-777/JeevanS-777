@@ -48,8 +48,10 @@ Aspiring Full Stack Developer with a passion for crafting efficient, user-focuse
 ![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/_Jeevan_S)
 
 ### ⌨️ MonkeyType Typing Stats
+<a href="https://monkeytype.com/profile/Jeevan_S">
+  <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/monkeytype-stats.svg" alt="MonkeyType stats — Jeevan_S" />
+</a>
 
-![MonkeyType Stats](https://monkeytype-api.vercel.app/api/v1/users/Jeevan_S/stats/card?theme=dark)
 
 
 ## 🚀 Featured Projects
