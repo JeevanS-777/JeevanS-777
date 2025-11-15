@@ -49,9 +49,7 @@ Aspiring Full Stack Developer with a passion for crafting efficient, user-focuse
 
 ### ⌨️ MonkeyType Typing Stats
 
-[![MonkeyType Profile](https://img.shields.io/badge/MonkeyType-View%20Profile-blue?style=for-the-badge)](https://monkeytype.com/profile/Jeevan_S)
-
-![MonkeyType WPM](https://img.shields.io/badge/dynamic/json?url=https://api.monkeytype.com/profile/Jeevan_S&label=Best%2060s%20WPM&query=%24.data.personalBests.time.60&style=for-the-badge)
+![MonkeyType Stats](https://monkeytype-api.vercel.app/api/v1/users/Jeevan_S/stats/card?theme=dark)
 
 
 ## 🚀 Featured Projects
