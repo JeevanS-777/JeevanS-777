@@ -9,62 +9,64 @@
 </h2>
 
 ---
-
-## 🧑‍💻 About Me  
-🚀 Aspiring **Full Stack Developer** passionate about building clean, scalable, user-focused applications.  
-
----
-
-## 🛠 Tech Stack
+<h2>┃Tech Stack</h2> 
 
 <p align="center">
-  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45"/>
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" style="filter: invert(100%);"/>
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://icon-library.com/images/node-js-icon/node-js-icon-27.jpg" width="55"/>
+  <img src="https://4born.com/assets/image/Express.js-logo.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
 </p>
 
-## 📊 Stats
+<h2>📊Stats</h2>  
+
+### **GitHub**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeevanS-777&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanS-777&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JeevanS-777&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 ### **LeetCode**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/_Jeevan_S?ext=heatmap" width="380"/>
+  <img src="https://leetcard.jacoblin.cool/_Jeevan_S?ext=heatmap" width="500"/>
 </p>
 
-### ⌨️ **MonkeyType Typing 
+### **MonkeyTyping**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/monkeytype.png" width="700" />
+  <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/monkeytype.png" width="600" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+<h2>📫Let's Connect</h2>  
 
-- 📧 **Email:** jeevans23062005@gmail.com  
+- 📧 **Email:** <a href="mailto:jeevans23062005@gmail.com">jeevans23062005@gmail.com</a>
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/jeevans23062005/  
-- 🌐 **Portfolio:** Coming soon 🚀  
+- 🌐 **Portfolio:** Very Soon! 
 
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF8A00&center=true&vCenter=true&width=600&lines=🚀+Always+learning.+Always+building.+Always+improving." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=2000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Always....Learning....Building....Improving!" />
 </h3>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JeevanS-777&style=for-the-badge&color=brightgreen" />
 </p>
