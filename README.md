@@ -63,14 +63,9 @@
 ---
 
 <h3 align="center">
-  <span style="background: linear-gradient(90deg, #ff8a00, #e52e71); 
-               -webkit-background-clip: text; 
-               color: transparent;
-               font-size: 22px;">
-    🚀 Always learning. Always building. Always improving.
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF8A00&center=true&vCenter=true&width=600&lines=🚀+Always+learning.+Always+building.+Always+improving." />
 </h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JeevanS-777&style=for-the-badge&color=brightgreen" />
 </p>
+
