@@ -1,12 +1,9 @@
+<h1 align="center">Hi 👋 there, I'm <strong>Jeevan S</strong></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&size=28&color=FF8A00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeevan+S+👋;Aspiring+Full+Stack+Developer;Building+cool+things+with+code;Always+learning+new+tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1500&duration=6000&color=FF8A00&center=true&vCenter=true&width=1000&lines=Aspiring+Full+Stack+Developer;Building+cool+user-friendly+applications+with+code!;Learning+new+Tech!" />
 </p>
 
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/animated-header.svg" width="450">
-</h2>
 
 ---
 <h2>┃Tech Stack</h2> 
@@ -63,7 +60,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=2000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Always....Learning....Building....Improving!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&duration=6000&color=00E5FF&center=true&vCenter=true&width=700&lines=Learn•Code•Build" />
 </h3>
 
 
