@@ -15,12 +15,12 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
@@ -30,31 +30,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45"/>
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" style="filter: invert(100%);"/>
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
 </p>
 
-# 📊 Stats
+## 📊 Stats
 
-## **LeetCode**
+### **LeetCode**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/_Jeevan_S?ext=heatmap" width="380"/>
 </p>
 
-## ⌨️ **MonkeyType Typing 
+### ⌨️ **MonkeyType Typing 
 <p align="center">
-  <img src="./monkeytype-stats.svg" width="650" />
+  <img src="https://raw.githubusercontent.com/JeevanS-777/JeevanS-777/main/monkeytype.png" width="700" />
 </p>
 
 ---
 
-# 📫 Let's Connect
+### 📫 Let's Connect
 
 - 📧 **Email:** jeevans23062005@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/jeevans23062005/  
