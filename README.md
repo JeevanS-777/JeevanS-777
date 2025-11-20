@@ -55,7 +55,7 @@
 
 - 📧 **Email:** <a href="mailto:jeevans23062005@gmail.com">jeevans23062005@gmail.com</a>
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/jeevans23062005/  
-- 🌐 **Portfolio:** https://portfolio-alpha-one-k1igx9htq1.vercel.app/ 
+- 🌐 **Portfolio:** https://my-portfolio-lovat-alpha-29.vercel.app/
 
 ---
 
