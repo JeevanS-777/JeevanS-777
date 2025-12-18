@@ -31,12 +31,12 @@
 ### **GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeevanS-777&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanS-777&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeevanS-777&show_icons=true&theme=tokyonight&cache_seconds=86400&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanS-777&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JeevanS-777&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=JeevanS-777&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ### **LeetCode**
